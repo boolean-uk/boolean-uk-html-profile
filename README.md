@@ -14,6 +14,3 @@ The `index.html` file contains an initial HTML template you can use to get start
 * An unordered list
 * An image
 * Use `div`s to create at least 2 different sections 
-
-## Tips 
-- The content doesn't really matter for this exercise, but if you're struggling 
